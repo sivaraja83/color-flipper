@@ -1,2 +1,2 @@
 # color-flipper
-Live site Url - https://sivaraja83.github.io/color-flipper/
+Live site Url - https://sivasreact.github.io/color-flipper/
